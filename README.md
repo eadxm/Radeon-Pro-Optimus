@@ -63,7 +63,7 @@ This driver supports a vast selection of AMD Radeon, FirePro, FireStream, and em
 
 ## Installation Instructions
 
-1. Download or clone this repository to your local machine.
+1. Download the driver from the RELEASES(https://github.com/eadxm/Radeon-Pro-Optimus/releases/tag/Release-1.0)
 2. Run the official AMD setup application (`setup.exe`) included in the root extraction directory.
 3. The installer will parse the modified INF file. If an eligible **8600M series** card is detected, it will recognize your hardware under the **AMD R8 M670 Rift** profile name, while standard hardware profiles apply automatically to all other devices.
 4. Custom registry performance and stability tweaks will be deployed silently across all installs.
