@@ -1,5 +1,8 @@
 # Radeon-Pro-Optimus (Modified INF Driver)
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e3db3bdf-68e1-4294-8528-83c8e36ad305" />
+
+
 ---
 
 ## Overview
