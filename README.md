@@ -68,3 +68,11 @@ This driver supports a vast selection of AMD Radeon, FirePro, FireStream, and em
 3. The installer will parse the modified INF file. If an eligible **8600M series** card is detected, it will recognize your hardware under the **AMD R8 M670 Rift** profile name, while standard hardware profiles apply automatically to all other devices.
 4. Custom registry performance and stability tweaks will be deployed silently across all installs.
 5. Reboot your system once the installation completes to finalize driver initialization and performance changes.
+
+## AMD Software Support (Adrenalin):
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e0d08d7d-43fc-4b4a-9669-707b8a5e2ac9" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/36cf2ea4-5e24-4341-8aa2-30433c7054b4" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/85f2b11f-7f1d-4f29-aee9-720c37f0ced1" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d3f4a872-7d84-4393-9041-a4991b829bd0" />
+
+
