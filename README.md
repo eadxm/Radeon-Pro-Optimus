@@ -25,7 +25,8 @@ The INF has been preserved to allow installation directly via the official AMD s
 *   **MSI (Message Signaled Interrupts) Enabled:**
     *   Forced MSI support globally under hardware device settings (`MSISupported = 1`) to reduce interrupt latency and prevent IRQ conflicts.
 
-This driver introduces OpenGL 4.6 And Vulkan 1.2.
+*This driver introduces OpenGL 4.6 And Vulkan 1.2.*
+
 ---
 
 ## Compatible GPUs
